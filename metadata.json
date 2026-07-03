@@ -1,0 +1,6 @@
+{
+  "name": "VYBE X",
+  "description": "Connect. Create. Earn. A premium next-generation social ecosystem featuring vertical feeds, stories, private circles, chat, live streaming, commerce, and AI-powered creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
